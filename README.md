@@ -1,3 +1,3 @@
-# springboot-simple
+# java-simple
 
-Demo for spring-boot
+Demo for Java
